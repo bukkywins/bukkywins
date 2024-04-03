@@ -1,8 +1,12 @@
 
 ![I am a Data analyst ](https://pbs.twimg.com/profile_banners/123693137/1711483978/1080x360)
 
-### Hi there 👋, I am Oluwakemi Mabogunje
+###  Oluwakemi Mabogunje
+<hr>
+
+
 ####  Data analyst 
+
 
 I am a detail-oriented analyst with a passion for working with numbers and extracting insights from data. I have a strong educational background in Business Information Systems Management, I excel in data visualization, data cleaning, and data analysis.  I am skilled in the use of Power Bi, SQL, Python and Advanced Excel.  I enjoy collaborating with cross-functional teams to identify business problems and formulate data-driven solutions. Outside of work, I stay up-to-date with industry trends, attend events, and contribute to online data science communities to improve my skills.
 
