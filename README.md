@@ -5,7 +5,7 @@
 <hr>
 
 
-####  Data analyst 
+###  Data analyst 
 
 
 I am a detail-oriented analyst with a passion for working with numbers and extracting insights from data. I have a strong educational background in Business Information Systems Management, I excel in data visualization, data cleaning, and data analysis.  I am skilled in the use of Power Bi, SQL, Python and Advanced Excel.  I enjoy collaborating with cross-functional teams to identify business problems and formulate data-driven solutions. Outside of work, I stay up-to-date with industry trends, attend events, and contribute to online data science communities to improve my skills.
