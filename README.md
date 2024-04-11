@@ -20,11 +20,10 @@ I am a detail-oriented analyst with a passion for working with numbers and extra
 ## Some Projects
 
 ### [Babington Data Analysis Project](https://github.com/bukkywins/Data-Analysis_Babington-Dataset/blob/main/README.md)
-<a href="https://www.youtube.com/watch?v=AiIqavWA2Yg?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="https://github.com/bukkywins/Data-Analysis_Babington-Dataset/blob/main/images/babington_thumbnail.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://github.com/bukkywins/Data-Analysis_Babington-Dataset/blob/main/README.md"><img src="https://github.com/bukkywins/Data-Analysis_Babington-Dataset/blob/main/images/babington_thumbnail.png" 
+alt="IMAGE ALT TEXT HERE" width="300" height="180" border="10" /></a>
 
-### [Data cleaning, modelling and analysis using MS Excel, SQL and Python](https://github.com/bukkywins/Data-Analysis_Projects)
+### [Data cleaning, modelling and analysis using MS Excel, SQL and Python](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/README.md)
 
 
 
