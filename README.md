@@ -24,6 +24,10 @@ I am a detail-oriented analyst with a passion for working with numbers and extra
 " target="_blank"><img src="https://github.com/bukkywins/Data-Analysis_Babington-Dataset/blob/main/images/babington_thumbnail.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+### [Data cleaning, modelling and analysis using MS Excel, SQL and Python](https://github.com/bukkywins/Data-Analysis_Projects)
+
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bukkywins)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oluwakemi-mabogunje/)  
 
