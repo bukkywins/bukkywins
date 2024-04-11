@@ -39,5 +39,5 @@ alt="IMAGE ALT TEXT HERE" width="300" height="180" border="10" /></a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bukkywins)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oluwakemi-mabogunje/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bukkywins&show_icons=true)  
+  
 
